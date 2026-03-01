@@ -1,0 +1,48 @@
+cff-version: 1.2.0
+message: "If you use this project in research or academic work, please cite it using the information below."
+
+title: "Normal Equations Solver for Simple Linear Regression"
+
+version: "0.1.0"
+
+doi: "10.5281/zenodo.18818738"
+
+date-released: "2026-03-01"
+
+repository-code: "https://github.com/USERNAME/Normal-equations-solver-simple-linear-regression"
+
+license: MIT
+
+authors:
+  - family-names: "Senatorov"
+    given-names: "Ruslan"
+    orcid: ""
+    email: "t.me/RuslanSenatorov or youtube.com/SENATOROV"
+    affiliation: "Independent Research"
+
+keywords:
+  - optimization
+  - Normal Equations
+  - numerical-optimization
+  - large-scale-optimization
+  - machine-learning
+  - Simple Linear Regression
+
+abstract: >
+  This project provides a mathematically rigorous treatment and
+  production-style implementation of the Normal Equations
+  optimization algorithm, including theoretical derivation,
+  convergence analysis, and numerical experiments.
+
+preferred-citation:
+  type: report
+  doi: "10.5281/zenodo.18818738"
+  title: "L-BFGS Solver Course"
+  authors:
+    - family-names: "Senatorov"
+      given-names: "Ruslan"
+  year: 2026
+  repository-code: "https://github.com/USERNAME/Normal-equations-solver-simple-linear-regression"
+
+
+
